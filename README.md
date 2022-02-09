@@ -1,6 +1,6 @@
 I successfully completed the first two levels of my program "Computer Engineering Technology - Computing Science" and was named in the Dean’s Honours List in both terms.
 During my studies, I enhanced my software development skills.
-I have strong knowledge in Object-Oriented Design, coding in Java, C, HTML5, CSS3, Bootstrap 4, Java Script and writing script for testing.
+I have strong knowledge in Object-Oriented Design, coding in Java, C, HTML, CSS, Java Script and writing script for testing.
 In addition, through the Database course, I developed the skill set to create and manipulate a well-designed database by using the SQL language and pgAdmin4.
 I also built up a strong knowledge about Linux OS and Vim during the GNU/Linux course.
 Moreover, I am learning Python on my own to expand my knowledge about programming. 
